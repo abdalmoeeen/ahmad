@@ -1,0 +1,61 @@
+body{
+	background-color: #e0e2e3;
+}
+.first{
+	background-color: white;
+	margin-right: 97px;
+}
+.second{
+	background-color: white;
+}
+
+.se{
+	    background-color: #fff;
+    height: 36px;
+    padding: 0 12px;
+    border-color:#ccc;
+    border-width: 1px;
+}
+
+.min{
+	    display: inline;
+    max-width: 75px;
+    margin-right: 46px;
+}
+
+.max{
+	    display: inline;
+    max-width: 75px;
+    margin-left: 46px;
+}
+ul{
+	list-style-type: none;
+	padding: 0px;
+}
+label{
+	font-weight: lighter;
+}
+
+.card-item{
+	    padding: 0 24px;
+	    min-height: 100px;
+}
+.card-item-inner{
+	    border-bottom: 1px solid #DEDEDE;
+    padding: 24px 0;
+    overflow: hidden;
+}
+.primary{
+	    float: left;
+	    overflow: hidden;
+	    max-width: 80%;
+	    margin-right: 10px;
+}
+
+
+.secondary{
+    float: right;
+    overflow: hidden;
+    max-width: 20%;
+    margin-left: 10px;
+}
